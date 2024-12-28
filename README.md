@@ -56,7 +56,7 @@ Qbar=R|((~S)&(Qbar));
 end 
 endmodule
 developed by: Sugeshan S
-register no:24001907
+register no:24007573
 ```
 
 **RTL LOGIC FOR FLIPFLOPS**
