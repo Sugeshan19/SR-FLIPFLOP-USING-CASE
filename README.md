@@ -69,4 +69,4 @@ register no:24007573
 
 **RESULTS**
 
-SR flipflop using verilog and validating their functionality using their functional tables are verified
+Thus the SR flipflop using verilog and validating their functionality using their functional tables are verified
