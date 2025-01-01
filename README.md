@@ -42,6 +42,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 
 **PROGRAM**
+Developed by: SUGESHAN.S
+Register number: 24007573
 ```
 module sr(S,R,clk,Q,Qbar);
 input S,R,clk;
